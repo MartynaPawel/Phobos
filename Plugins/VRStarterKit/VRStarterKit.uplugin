@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VRStarterKit",
+	"Description": "VR Starter Kit",
+	"Category": "Other",
+	"CreatedBy": "Keenan",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VRStarterKit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
