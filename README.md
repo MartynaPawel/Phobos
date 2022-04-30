@@ -1,2 +1,2 @@
-# FYP
- Fyp vr project
+# Phobos
+ Final year project, virtual reality
